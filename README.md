@@ -48,23 +48,23 @@ MATE-Notes-Storage/
 Once a PDF is pushed to this repository, it can be accessed instantly via jsDelivr using the following URL pattern:
 
 ```
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/MATE-Notes-Storage@main/{folder}/{filename}.pdf
+https://cdn.jsdelivr.net/gh/nishant0181/MATE-Notes-Storage@main/{folder}/{filename}.pdf
 ```
 
 ### Examples
 
 ```
 # Semester 1 Physics notes
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/MATE-Notes-Storage@main/sem1/physics-unit1.pdf
+https://cdn.jsdelivr.net/gh/nishant0181/MATE-Notes-Storage@main/sem1/physics-unit1.pdf
 
 # Semester 3 Data Structures (CE/IT)
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/MATE-Notes-Storage@main/sem3/data-structures-unit2.pdf
+https://cdn.jsdelivr.net/gh/nishant0181/MATE-Notes-Storage@main/sem3/data-structures-unit2.pdf
 
 # Semester 5 Computer Networks (CE)
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/MATE-Notes-Storage@main/sem5/computer-networks-unit3.pdf
+https://cdn.jsdelivr.net/gh/nishant0181/MATE-Notes-Storage@main/sem5/computer-networks-unit3.pdf
 ```
 
-> Replace `YOUR_USERNAME` with the actual GitHub username of this repository's owner.
+> GitHub username: **nishant0181**
 
 ---
 
@@ -94,7 +94,7 @@ We welcome contributions from GTU students! Follow these steps to add new notes:
 
 2. **Clone** your forked repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/MATE-Notes-Storage.git
+   git clone https://github.com/nishant0181/MATE-Notes-Storage.git
    cd MATE-Notes-Storage
    ```
 
