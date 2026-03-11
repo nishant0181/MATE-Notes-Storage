@@ -1,0 +1,119 @@
+# ===========================
+# OS generated files
+# ===========================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===========================
+# Editor / IDE files
+# ===========================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim/Neovim
+*.swp
+*.swo
+*~
+.netrwhist
+Session.vim
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+
+# ===========================
+# Temporary & log files
+# ===========================
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*.pid
+
+# ===========================
+# Compressed archives (keep only raw PDFs)
+# ===========================
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# ===========================
+# Node / npm (if any tooling is added)
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.yarn/
+
+# ===========================
+# Python (if any scripts are added)
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+venv/
+
+# ===========================
+# Thumbnails & previews
+# ===========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+!README_assets/
+
+# ===========================
+# Secrets & credentials
+# ===========================
+.env
+.env.*
+secrets.*
